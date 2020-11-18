@@ -1,4 +1,6 @@
-# ut-profit-calculator
+# Ultimate team profit calculator
+
+calculates the 5% tax on trade at fifa 21 ultimate team
 
 ## Project setup
 ```
